@@ -1,0 +1,7 @@
+cat > .gitignore <<'EOF'
+.env
+volumes/
+*.sql
+wp_uploads.tar.gz
+EOF
+
