@@ -74,7 +74,7 @@ docker-compose ps
 
 --------------------------------------------------------------------
 
-Adding Custom Themes/Plugins
+### Adding Custom Themes/Plugins
 
 Place files here:
 
@@ -86,3 +86,13 @@ wordpress/uploads/
 These will be mounted automatically inside WordPress.
 
 ---------------------------------------------------------------------
+
+## WordPress = the web application you are running inside a Docker container.
+
+🧱 Your setup includes:
+
+MySQL → Database
+
+WordPress → Website application
+
+phpMyAdmin → Database management tool
